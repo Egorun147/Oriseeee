@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egors\\RiderProjects\\ServerOris\\ServerOris\\ServerOris.csproj": {}
+    "C:\\Users\\egors\\OneDrive\\Рабочий стол\\Oriseeee-main\\ServerOris\\ServerOris\\ServerOris.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egors\\RiderProjects\\ServerOris\\ServerOris\\ServerOris.csproj": {
+    "C:\\Users\\egors\\OneDrive\\Рабочий стол\\Oriseeee-main\\ServerOris\\ServerOris\\ServerOris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egors\\RiderProjects\\ServerOris\\ServerOris\\ServerOris.csproj",
+        "projectUniqueName": "C:\\Users\\egors\\OneDrive\\Рабочий стол\\Oriseeee-main\\ServerOris\\ServerOris\\ServerOris.csproj",
         "projectName": "ServerOris",
-        "projectPath": "C:\\Users\\egors\\RiderProjects\\ServerOris\\ServerOris\\ServerOris.csproj",
+        "projectPath": "C:\\Users\\egors\\OneDrive\\Рабочий стол\\Oriseeee-main\\ServerOris\\ServerOris\\ServerOris.csproj",
         "packagesPath": "C:\\Users\\egors\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egors\\RiderProjects\\ServerOris\\ServerOris\\obj\\",
+        "outputPath": "C:\\Users\\egors\\OneDrive\\Рабочий стол\\Oriseeee-main\\ServerOris\\ServerOris\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
