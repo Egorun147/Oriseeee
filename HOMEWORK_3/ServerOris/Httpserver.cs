@@ -71,7 +71,6 @@ public class HttpServer
                 continue;
             }
 
-            // Отдаём файлы только из папки static.
             if (!requestedFile.StartsWith(siteFolder + Path.DirectorySeparatorChar,
                     StringComparison.OrdinalIgnoreCase) || !File.Exists(requestedFile))
             {
