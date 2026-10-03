@@ -1,8 +1,0 @@
-﻿{
-  "Server": {
-    "Port": "2323",
-    "Host": "127.0.0.1",
-    "Path": "connection/"
-    
-  }
-}
